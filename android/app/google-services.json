@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "513900263263",
+    "project_id": "somontv-prod",
+    "storage_bucket": "somontv-prod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513900263263:android:f77cc36dba228600a6a8ea",
+        "android_client_info": {
+          "package_name": "com.somontv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513900263263-0cpfe9fa8778olbhui5ro925p7i8siuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO1G5rTy8Apmpq7W28XLT2NCDiZsU7Vr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513900263263-0cpfe9fa8778olbhui5ro925p7i8siuo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

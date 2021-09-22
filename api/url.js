@@ -1,0 +1,1 @@
+export const IPTV_ADMIN_URL = 'http://admin.somon.tv/'

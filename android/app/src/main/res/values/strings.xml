@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SomonTV</string>
+    <string name="default_notification_channel_id">info-channel-2</string>
+</resources>
